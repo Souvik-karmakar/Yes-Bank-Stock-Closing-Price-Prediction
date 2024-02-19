@@ -1,2 +1,3 @@
 # Yes-Bank-Stock-Closing-Price-Prediction
-![image]https://ab-strapi-qa.s3.ap-south-1.amazonaws.com/yes_bank_stock_pred_900626dccd.png
+![Alt Text](![image](https://github.com/Souvik-karmakar/Yes-Bank-Stock-Closing-Price-Prediction/assets/78291973/6456caa3-f36d-4f39-8dce-f2bb58dec674))
+
